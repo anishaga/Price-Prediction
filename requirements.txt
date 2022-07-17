@@ -1,9 +1,9 @@
-keras==2.9.0
-matplotlib==3.5.2
 numpy
 pandas
-pandas_datareader==0.10.0
-scikit_learn==1.1.1
-seaborn==0.11.2
-streamlit==1.11.0
-tensorflow==2.9.1
+tensorflow
+keras
+matplotlib
+pandas_datareader
+scikit_learn
+seaborn
+streamlit
