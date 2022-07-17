@@ -5,7 +5,7 @@ import warnings
 import streamlit as st
 import seaborn as sns
 import matplotlib
-import matplotlib.pyplot as pltst
+import matplotlib.pyplot as plt
 sns.set_style('darkgrid')
 matplotlib.rcParams['font.size'] = 14
 matplotlib.rcParams['figure.figsize'] = (9, 5)
